@@ -13,6 +13,12 @@
 - 📸 Professional Instagram: @leonardojpires2006
 ---
 
+## 📚 Featured Projects
+
+| [Fit Fetch](https://github.com/leonardojpires/fit-fetch) | Fitness platform with workouts and nutrition | ReactJS, NodeJS, MySQL |
+| [Bravatta](https://github.com/leonardojpires/bravatta) | Lightweight PHP news management system. | PHP, PDO, Bootstrap |
+| [Vibraze](https://github.com/leonardojpires/vibraze) | Multiplayer word guessing game built with Laravel and React. | Laravel, React, MySQL |
+
 ## 🧠 Tech Stack
 
 ### 🎨 Frontend
