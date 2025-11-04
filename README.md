@@ -1,8 +1,8 @@
-### Hello ⭐ I am Leonardo Pires
+### Hello ⭐ I am Leonardo Pires ⭐
 
 👥 **Fullstack Developer**
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 I'm an IT student.
 - 💡 I aim to become a fullstack web developer.
