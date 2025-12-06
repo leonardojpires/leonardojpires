@@ -1,4 +1,4 @@
-### Hello ⭐ I am Leonardo Pires ⭐
+### Hello I am ⭐ Leonardo Pires ⭐
 
 👥 **Fullstack Developer**
 
