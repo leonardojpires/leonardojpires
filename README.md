@@ -1,11 +1,11 @@
-### Hello I am ⭐ Leonardo Pires ⭐
+### Hello! My name is ⭐ Leonardo Pires ⭐
 
 👥 **Fullstack Developer**
 
 ## 👨‍💻 About Me
 
 - 🎓 I'm an IT student.
-- 💡 I aim to become a fullstack web developer.
+- 💡 I aim to improve my fullstack skills every day.
 - 🌱 I thrive on solving problems through clean and efficient code
 - 🌐 I can communicate clearly in Portuguese and English
 - 📫 Email: (leocontacto12@gmail.com)
