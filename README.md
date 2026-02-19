@@ -19,7 +19,7 @@
 |----------|--------------|------|
 | [Fit Fetch](https://github.com/leonardojpires/fit-fetch) | Fitness platform with workouts and nutrition | ReactJS, NodeJS, MySQL |
 | [Bravatta](https://github.com/leonardojpires/bravatta-roleplay) | Lightweight PHP news management system. | PHP, PDO, Bootstrap |
-| [Vibraze](https://github.com/leonardojpires/vibraze) | Band's CRUD platform built with Laravel | Laravel, MySQL |
+| [Vibraze](https://github.com/leonardojpires/vibraze) | Bands management and consultation platform built with Laravel | Laravel, MySQL |
 
 ## 🧠 Tech Stack
 
