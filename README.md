@@ -51,7 +51,7 @@
 
 ### 📊 My GitHub Stats
 
-![Build Status](https://github.com/leonardojpires/my-project/actions/workflows/main.yml/badge.svg)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leonardojpires&show_icons=true&theme=tokyonight)
 
 ### 🧾 Most used languages
 
