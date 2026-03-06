@@ -51,7 +51,7 @@
 
 ### 📊 My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardojpires)](https://github.com/leonardojpires/github-readme-stats)
+![Build Status](https://github.com/leonardojpires/my-project/actions/workflows/main.yml/badge.svg)
 
 ### 🧾 Most used languages
 
