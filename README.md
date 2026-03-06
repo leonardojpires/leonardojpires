@@ -51,10 +51,10 @@
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leonardojpires&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=leonardojpires&show_icons=true&theme=dark)
 
 ### 🧾 Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojpires&layout=compact&langs_count=8&theme=radical)](https://github.com/leonardojpires)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leonardojpires&layout=compact&theme=dark)
 
 ---
