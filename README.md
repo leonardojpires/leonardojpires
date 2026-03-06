@@ -51,8 +51,8 @@
 
 ### 📊 My GitHub Stats
 
-![Build Status](https://github.com/USERNAME/REPOSITORY/actions/workflows/main.yml/badge.svg)
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardojpires)](https://github.com/leonardojpires/github-readme-stats)
+
 ### 🧾 Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojpires&layout=compact&langs_count=8&theme=radical)](https://github.com/leonardojpires)
