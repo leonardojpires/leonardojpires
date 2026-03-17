@@ -51,7 +51,9 @@
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=leonardojpires&show_icons=true&theme=dark) <br />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=leonardojpires&show_icons=true&theme=dark) 
+<br />
+<br />
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=leonardojpires&theme=radical&hide_border=false)
 
 ### 🧾 Most used languages
