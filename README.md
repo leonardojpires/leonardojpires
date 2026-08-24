@@ -1,138 +1,99 @@
-<div align="center">
+# Leonardo Pires
 
-# YOUR_NAME
+## FULL STACK DEVELOPER
 
-### YOUR_PROFESSIONAL_TITLE
+I'm a full-stack web developer who is passionate about building digital solutions and continuously expanding my knowledge of Computer Science and Software Development. I take a problem-first approach: identifying the problem, understanding the challenge, planning the architecture and designing a scalable, secure and responsive solution from the system design to the final code.
 
-SHORT_INTRODUCTION_OR_VALUE_PROPOSITION
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
+[Portfolio](https://leonardojpires.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leonardojpires/) · [Email](mailto:leocontacto12@gmail.com)
 
 ---
 
 ## About Me
 
-- ROLE_OR_CURRENT_FOCUS
-- DOMAIN_OR_ENGINEERING_INTEREST
-- CURRENT_LEARNING_GOAL
-- PROFESSIONAL_OBJECTIVE
-- OPTIONAL_PERSONAL_DETAIL
+- Junior full-stack developer with a strong interest in back-end development
+- Focused on improving my technical skills and problem-solving abilities every day
+- Able to communicate clearly in both Portuguese and English
+- Transforming ideas into digital solutions
+- Interested in back-end, software architecture and system design
 
 ## Technical Skills
 
 ### Languages
 
-`LANGUAGE` · `LANGUAGE` · `LANGUAGE`
+`JavaScript` · `TypeScript` · `PHP` · `SQL`
 
 ### Backend
 
-`TECHNOLOGY` · `FRAMEWORK` · `TECHNOLOGY`
+`Node.js` · `Express.js` · `Laravel` · `REST APIs` · `Sequelize` · `Mongoose`
 
 ### Databases
 
-`DATABASE` · `DATABASE` · `DATABASE_TOOL`
+`MySQL` · `MongoDB` · `Aiven` · `MySQL Workbench`
 
 ### Frontend
 
-`TECHNOLOGY` · `FRAMEWORK` · `STYLING_TOOL`
+`HTML` · `CSS` · `Tailwind CSS` · `React.js` · `Vite`
 
 ### DevOps & Tools
 
-`TOOL` · `PLATFORM` · `TOOL` · `TOOL`
+`Git` · `GitHub` · `Docker` · `GitHub Actions` · `Render` · `Cloudflare Pages` · `Insomnia` 
 
-### Concepts
+### Engineering Knowledge
 
-- CONCEPT_OR_PRACTICE
-- CONCEPT_OR_PRACTICE
-- CONCEPT_OR_PRACTICE
-- CONCEPT_OR_PRACTICE
+- Layered architecture and separation of concerns
+- RESTful API design and development
+- Authentication, authorization and application security
+- Integration with external systems
+- AI integration into software
+- Software maintainability and test writing
+- Code debugging and logging
+- Database structuring and query optimization
 
 ## Featured Projects
 
-### [PROJECT_NAME](PROJECT_REPOSITORY_URL)
-
-> ONE_SENTENCE_DESCRIPTION_OF_THE_PROBLEM_AND_SOLUTION
-
-- **Built with:** `TECHNOLOGY` · `TECHNOLOGY` · `TECHNOLOGY`
-- **Highlights:** KEY_FEATURE_OR_TECHNICAL_DECISION
-- **Links:** [Repository](PROJECT_REPOSITORY_URL) · [Live Demo](PROJECT_DEMO_URL)
-
-### [PROJECT_NAME](PROJECT_REPOSITORY_URL)
-
-> ONE_SENTENCE_DESCRIPTION_OF_THE_PROBLEM_AND_SOLUTION
-
-- **Built with:** `TECHNOLOGY` · `TECHNOLOGY` · `TECHNOLOGY`
-- **Highlights:** KEY_FEATURE_OR_TECHNICAL_DECISION
-- **Links:** [Repository](PROJECT_REPOSITORY_URL) · [Live Demo](PROJECT_DEMO_URL)
-
-### [PROJECT_NAME](PROJECT_REPOSITORY_URL)
-
-> ONE_SENTENCE_DESCRIPTION_OF_THE_PROBLEM_AND_SOLUTION
-
-- **Built with:** `TECHNOLOGY` · `TECHNOLOGY` · `TECHNOLOGY`
-- **Highlights:** KEY_FEATURE_OR_TECHNICAL_DECISION
-- **Links:** [Repository](PROJECT_REPOSITORY_URL) · [Live Demo](PROJECT_DEMO_URL)
+| Project | Description | Technologies | Highlights |
+|---|---|---|---|
+| **[Blueprint](https://blueprint-1yl.pages.dev)** | AI-powered platform that generates structured and personalized study plans. | `TypeScript` `Node.js` `Express.js` `React.js` `MySQL` | AI integration, layered architecture, JWT authentication, rate limiting, database transactions, and persistent study plans |
+| **OceanPulse** | Ocean forecast dashboard that collects and presents sea data from the IPMA public API. | `Node.js` `Express.js` `React.js` `MySQL` `Sequelize` | Automated data updates, scheduled tasks, RESTful APIs, data visualization, and location-based forecasts |
+| **[Fit Fetch](https://github.com/leonardojpires/fit-fetch)** | Physical activity and nutrition management platform with an AI-powered chatbot that generates structured workout and diet plans. | `Node.js` `Express.js` `React.js` `MySQL` `Sequelize` | AI integration, MVC architecture, personalized plan generation, and an interactive conversational experience |
 
 ## Experience
 
-### ROLE — ORGANIZATION
+### Full-stack Developer — Digital Innovation Systems
 
-`START_DATE — END_DATE_OR_PRESENT`
+`03/2026—07/2026`
 
-- RESPONSIBILITY_OR_MEASURABLE_CONTRIBUTION
-- RESPONSIBILITY_OR_MEASURABLE_CONTRIBUTION
-- TECHNOLOGY_OR_ENGINEERING_PRACTICE_USED
+- Development and maintenance of web applications using Laravel, Node.js, and relational databases
+- Implementation of features for drone management and civil protection platforms
+- Integration of DJI FlightHub 2 and AWS live-streaming services
+- Development and integration of RESTful APIs
+- Implementation and management of drones by municipality
+- Migration of data from JSON files to a relational database
+- Diagnosis and resolution of issues in existing applications
+- Testing, code reviews, and pull request analysis
+- Collaboration on technical planning and project task tracking
 
 ## Education & Certifications
 
-- **COURSE_OR_QUALIFICATION** — INSTITUTION, YEAR
-- **CERTIFICATION_OR_TRAINING** — ISSUER, YEAR
+- **Higher Professional Technical Course in Software Development** — ISTEC Porto (2024-2026)
+- **Networking Installation and Management Course** - Escola Secundária Coelho e Castro (2021-2024)
+- **Awarded as the best student of the 12th-grade professional program at Agrupamento de Escolas Coelho e Castro** — Rotary Club Santa Maria da Feira (2024)
 
-## Currently
+## GitHub Statistics
 
-- **Building:** CURRENT_PROJECT_OR_SYSTEM
-- **Learning:** CURRENT_TOPIC
-- **Improving:** CURRENT_SKILL_OR_PRACTICE
-- **Open to:** OPPORTUNITY_TYPE
+![Leonardo's GitHub statistics](https://github-readme-stats.vercel.app/api?username=leonardojpires&show_icons=true)
 
-## GitHub Activity
+![Leonardo's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojpires&layout=compact)
 
-<div align="center">
+![Leonardo's GitHub streak](https://streak-stats.demolab.com/?user=leonardojpires)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used languages" />
+## Contribution Activity
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution graph" />
-
-</div>
-
-## Beyond Code
-
-- INTEREST_OR_ACTIVITY
-- INTEREST_OR_ACTIVITY
-- COMMUNITY_OR_PERSONAL_PURSUIT
+![Leonardo's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardojpires&theme=github-compact)
 
 ## Contact
 
-- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
-- **LinkedIn:** [YOUR_LINKEDIN_DISPLAY_NAME](YOUR_LINKEDIN_URL)
-- **Portfolio:** [YOUR_DOMAIN](YOUR_PORTFOLIO_URL)
-- **Location:** YOUR_LOCATION_OR_TIMEZONE
-
----
-
-<div align="center">
-
-OPTIONAL_SHORT_CLOSING_LINE
-
-</div>
+- **Email:** [leocontacto12@gmail.com](mailto:leocontacto12@gmail.com)
+- **LinkedIn:** [leonardojpires](https://www.linkedin.com/in/leonardojpires/)
+- **Portfolio:** [Leonardo Pires](https://leonardojpires.vercel.app)
+- **Location:** Santa Maria da Feira, Aveiro, Portugal
