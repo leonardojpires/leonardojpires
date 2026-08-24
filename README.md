@@ -1,63 +1,138 @@
-### Hello! My name is ⭐ Leonardo Pires ⭐
+<div align="center">
 
-👥 **Fullstack Developer**
+# YOUR_NAME
 
-## 👨‍💻 About Me
+### YOUR_PROFESSIONAL_TITLE
 
-- 🎓 I'm an IT student.
-- 💡 I aim to improve my fullstack skills every day.
-- 🌱 I thrive on solving problems through clean and efficient code
-- 🌐 I can communicate clearly in Portuguese and English
-- 📫 Email: (leocontacto12@gmail.com)
-- 🏢 LinkedIn: (https://www.linkedin.com/in/leonardo-pires-4a9221307)
-- 📸 Professional Instagram: @leonardojpires2006
----
+SHORT_INTRODUCTION_OR_VALUE_PROPOSITION
 
-## 📚 Featured Projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Fit Fetch](https://github.com/leonardojpires/fit-fetch) | Fitness platform with workouts and nutrition | ReactJS, NodeJS, MySQL |
-| [Bravatta](https://github.com/leonardojpires/bravatta-roleplay) | Lightweight PHP news management system. | PHP, PDO, Bootstrap |
-| [Vibraze](https://github.com/leonardojpires/vibraze) | Bands management and consultation platform built with Laravel | Laravel, MySQL |
-
-## 🧠 Tech Stack
-
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+</div>
 
 ---
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+## About Me
 
----
+- ROLE_OR_CURRENT_FOCUS
+- DOMAIN_OR_ENGINEERING_INTEREST
+- CURRENT_LEARNING_GOAL
+- PROFESSIONAL_OBJECTIVE
+- OPTIONAL_PERSONAL_DETAIL
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Eloquent](https://img.shields.io/badge/-Eloquent-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+## Technical Skills
 
----
+### Languages
 
-### 📊 My GitHub Stats
+`LANGUAGE` · `LANGUAGE` · `LANGUAGE`
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=leonardojpires&show_icons=true&theme=dark) 
+### Backend
+
+`TECHNOLOGY` · `FRAMEWORK` · `TECHNOLOGY`
+
+### Databases
+
+`DATABASE` · `DATABASE` · `DATABASE_TOOL`
+
+### Frontend
+
+`TECHNOLOGY` · `FRAMEWORK` · `STYLING_TOOL`
+
+### DevOps & Tools
+
+`TOOL` · `PLATFORM` · `TOOL` · `TOOL`
+
+### Concepts
+
+- CONCEPT_OR_PRACTICE
+- CONCEPT_OR_PRACTICE
+- CONCEPT_OR_PRACTICE
+- CONCEPT_OR_PRACTICE
+
+## Featured Projects
+
+### [PROJECT_NAME](PROJECT_REPOSITORY_URL)
+
+> ONE_SENTENCE_DESCRIPTION_OF_THE_PROBLEM_AND_SOLUTION
+
+- **Built with:** `TECHNOLOGY` · `TECHNOLOGY` · `TECHNOLOGY`
+- **Highlights:** KEY_FEATURE_OR_TECHNICAL_DECISION
+- **Links:** [Repository](PROJECT_REPOSITORY_URL) · [Live Demo](PROJECT_DEMO_URL)
+
+### [PROJECT_NAME](PROJECT_REPOSITORY_URL)
+
+> ONE_SENTENCE_DESCRIPTION_OF_THE_PROBLEM_AND_SOLUTION
+
+- **Built with:** `TECHNOLOGY` · `TECHNOLOGY` · `TECHNOLOGY`
+- **Highlights:** KEY_FEATURE_OR_TECHNICAL_DECISION
+- **Links:** [Repository](PROJECT_REPOSITORY_URL) · [Live Demo](PROJECT_DEMO_URL)
+
+### [PROJECT_NAME](PROJECT_REPOSITORY_URL)
+
+> ONE_SENTENCE_DESCRIPTION_OF_THE_PROBLEM_AND_SOLUTION
+
+- **Built with:** `TECHNOLOGY` · `TECHNOLOGY` · `TECHNOLOGY`
+- **Highlights:** KEY_FEATURE_OR_TECHNICAL_DECISION
+- **Links:** [Repository](PROJECT_REPOSITORY_URL) · [Live Demo](PROJECT_DEMO_URL)
+
+## Experience
+
+### ROLE — ORGANIZATION
+
+`START_DATE — END_DATE_OR_PRESENT`
+
+- RESPONSIBILITY_OR_MEASURABLE_CONTRIBUTION
+- RESPONSIBILITY_OR_MEASURABLE_CONTRIBUTION
+- TECHNOLOGY_OR_ENGINEERING_PRACTICE_USED
+
+## Education & Certifications
+
+- **COURSE_OR_QUALIFICATION** — INSTITUTION, YEAR
+- **CERTIFICATION_OR_TRAINING** — ISSUER, YEAR
+
+## Currently
+
+- **Building:** CURRENT_PROJECT_OR_SYSTEM
+- **Learning:** CURRENT_TOPIC
+- **Improving:** CURRENT_SKILL_OR_PRACTICE
+- **Open to:** OPPORTUNITY_TYPE
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used languages" />
+
 <br />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
 <br />
-![Streak](https://nirzak-streak-stats.vercel.app/?user=leonardojpires&theme=radical&hide_border=false)
 
-### 🧾 Most used languages
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution graph" />
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leonardojpires&layout=compact&theme=dark)
+</div>
+
+## Beyond Code
+
+- INTEREST_OR_ACTIVITY
+- INTEREST_OR_ACTIVITY
+- COMMUNITY_OR_PERSONAL_PURSUIT
+
+## Contact
+
+- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- **LinkedIn:** [YOUR_LINKEDIN_DISPLAY_NAME](YOUR_LINKEDIN_URL)
+- **Portfolio:** [YOUR_DOMAIN](YOUR_PORTFOLIO_URL)
+- **Location:** YOUR_LOCATION_OR_TIMEZONE
 
 ---
+
+<div align="center">
+
+OPTIONAL_SHORT_CLOSING_LINE
+
+</div>
