@@ -85,7 +85,7 @@ I'm a full-stack web developer who is passionate about building digital solution
 
 ![Leonardo's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojpires&layout=compact)
 
-![Leonardo's GitHub streak](https://streak-stats.demolab.com/?user=leonardojpires)
+[![Leonardo's GitHub streak](https://streak-stats.demolab.com?user=leonardojpires&theme=transparent)](https://git.io/streak-stats)
 
 ## Contribution Activity
 
